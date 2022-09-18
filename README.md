@@ -16,7 +16,7 @@
  4) application starts running at port 3000 (http://localhost:3000)
  5) application deployed on heroku app - https://cloth-management-app.herokuapp.com/
 
-APIs
-- registration
-- login
-- cloth (CRUD)
+APIs are
+- /registration
+- /login
+- /cloth (CRUD)
