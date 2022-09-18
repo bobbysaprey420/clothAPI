@@ -9,4 +9,4 @@
     ADMIN_ROLE=admin
     USER_ROLE=user
  3) type nodemon
- 4) application starts running at port 3000
+ 4) application starts running at port 3000 (http://localhost:3000)
